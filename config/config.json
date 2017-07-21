@@ -1,0 +1,9 @@
+{
+    "development": {
+        "mongo_server_url": "http://localhost:27017/snippet-organizer"
+    },
+
+    "production": {
+        "mongo_server_url": "DATABASE_URL"
+    }
+}
